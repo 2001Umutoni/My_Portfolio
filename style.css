@@ -97,11 +97,11 @@ ul li a:hover {
    ================================================== */
 .info {
   /*  margin-left: 6%;*/
-    margin-top: 6%;
+    margin-top: 4%;
 }
 .about-content {
-    max-width: 700px;        /* or any width you prefer */
-    margin: 30px auto;       /* centers the container */
+    max-width: 800px;        /* or any width you prefer */
+    margin: 20px auto;       /* centers the container */
     padding: 0 10px;         /* optional side padding for breathing room */
 }
 
@@ -231,25 +231,25 @@ footer a:hover {
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    padding: 50px;
+    padding: 40px;
     background-color: #fff;
 }
 
 .contact-left,
 .contact-right {
     flex: 1;
-    padding: 20px;
+    padding: 15px;
 }
 
 .contact-left h1 {
     font-size: 3rem;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     color: #000;
 }
 
 .contact-left p {
     font-size: 1.2rem;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
     color: #000;
 }
 
